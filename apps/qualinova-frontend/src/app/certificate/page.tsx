@@ -1,9 +1,9 @@
 "use client";
 
-import CertificateDashboard from "@/components/templates/certificate/CertificateDashboard";
+
 
 const page = () => {
-  return <CertificateDashboard />;
+  return <div>Certificate</div>;
 };
 
 export default page;
